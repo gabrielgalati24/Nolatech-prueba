@@ -86,3 +86,5 @@ npm run test
 - **server/**: Contiene el backend (Express + MongoDB).
 - **frontend/**: Contiene el frontend (React + Vite).
 
+![image](https://github.com/user-attachments/assets/a996a336-f264-4071-8250-961607cd303b)
+
