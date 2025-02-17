@@ -88,3 +88,6 @@ npm run test
 
 ![image](https://github.com/user-attachments/assets/a996a336-f264-4071-8250-961607cd303b)
 
+METRICAS DE PERFORMANCE 
+![image](https://github.com/user-attachments/assets/28700cbe-1f92-4e53-8a4e-5c6b60d02a10)
+
